@@ -1,1 +1,1 @@
-# RestaurantProject
+# coding-project-template
